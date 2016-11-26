@@ -47,3 +47,7 @@ Screenshots
 
 ### Workshop table.skp
 ![Workshop table](Screenshots/Workshop table.png)
+
+### Shelves.skp
+![Shelves](Screenshots/Shelves.png)
+
